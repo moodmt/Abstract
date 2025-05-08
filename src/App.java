@@ -9,6 +9,9 @@ public class App {
         LivingBeing bug1 = new Bug("Bug 1");
 
         bug0.interact(bug1);
+
+        //hw
+        System.out.println("here is the new line");
         
 
     }
